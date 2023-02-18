@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: white;
+  font-size: 35px;
+  font-family: 'Roboto';
+  padding: 10px;
+}
+.imge {
+  height: 280px;
+  width: 680px;
+}
+.title {
+  color: #cbd5e1;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.para {
+  color: #cbd5e1;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.blue-btn {
+  background-color: #0b69ff;
+  height: 35px;
+  width: 120px;
+  border-width: 0px;
+  border-radius: 10px;
+  color: white;
+  margin: 10px;
+}
+.black-btn {
+  background-color: transparent;
+  height: 35px;
+  width: 120px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #94a3b8;
+  border-radius: 10px;
+  color: white;
+}
